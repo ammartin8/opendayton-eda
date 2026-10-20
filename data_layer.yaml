@@ -3,8 +3,8 @@
   title: Litter Containers
   theme: infrastructure
   publisher: City of Dayton Division of Waste Collection
-  public_via: Dayton Transparency Portal (ArcGIS Hub)
-  source_page: https://dayton-transparency-portal-1-daytonohio.hub.arcgis.com/datasets # Placeholder cannot validate source of dataset
+  public_via: City of Dayton Division of Waste Collection via ArcGIS
+  source_page: https://services2.arcgis.com/3dDB2Kk6kuA2gIGw/arcgis/rest/services/Litter_container/FeatureServer/0 # Placeholder cannot validate public source of dataset
   url: https://services2.arcgis.com/3dDB2Kk6kuA2gIGw/arcgis/rest/services/Litter_container/FeatureServer/0
   geometry: point
   approx_records: 424
